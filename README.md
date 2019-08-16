@@ -1,6 +1,6 @@
 # Labeling-Bench
 Data Classification or Labeling Workbench 
-<img style="width:100%;" src="ds-bench.jpeg">
+<img style="width:100%;" src="ds-bench.png">
 
 Classification
 
