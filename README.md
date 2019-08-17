@@ -8,15 +8,15 @@ Users can build classification use cases like identifying a transaction as fraud
 
 Workbench allows users to classify images and extract text.
 
-<img style="width:100%;" src="ds-text.png">
+<img style="width:100%;" src="ds-text.jpeg">
 
-<img style="width:100%;" src="ds-text1.png">
+<img style="width:100%;" src="ds-text1.jpeg">
 
-<img style="width:100%;" src="ds-voice.png">
+<img style="width:100%;" src="ds-voice.jpeg">
 
-<img style="width:100%;" src="ds-image.png">
+<img style="width:100%;" src="ds-image.jpeg">
 
-<img style="width:100%;" src="ds-video.png">
+<img style="width:100%;" src="ds-video.jpeg">
 
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
 
