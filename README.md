@@ -1,6 +1,6 @@
 # Labeling-Bench
 Data Classification or Labeling Workbench 
-<img style="width:100%;" src="ds-bench.png">
+<img style="width:100%;" src="images/ds-bench.png">
 
 Classification
 
@@ -9,19 +9,19 @@ Users can build classification use cases like identifying a transaction as fraud
 Workbench allows users to classify images and extract text.
 
 ## Text Classification
-<img style="width:100%;" src="ds-text.jpeg">
+<img style="width:100%;" src="images/ds-text.jpeg">
 
 ## Entity Extraction
-<img style="width:100%;" src="ds-text1.jpeg">
+<img style="width:100%;" src="images/ds-text1.jpeg">
 
 ## Voice Labeling
-<img style="width:100%;" src="ds-voice.jpeg">
+<img style="width:100%;" src="images/ds-voice.jpeg">
 
 ## Image Labeling
-<img style="width:100%;" src="ds-image.jpeg">
+<img style="width:100%;" src="images/ds-image.jpeg">
 
 ## Video Labeling
-<img style="width:100%;" src="ds-video.jpeg">
+<img style="width:100%;" src="images/ds-video.jpeg">
 
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
 
